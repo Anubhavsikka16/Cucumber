@@ -8,6 +8,8 @@ import cucumber.api.java.en.Then;
 
 public class Tester {
 	
+	//Hello, I am learning Cucumber and Jenkins
+	
 	//To see all annotations, press control and press any annotation below, then press forward and 
 	//back arrow in package explorer
 	
